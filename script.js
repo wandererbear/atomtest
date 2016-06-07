@@ -1,3 +1,2 @@
-document.getElementById('id'){
-   // ..
-}
+msg = document.getElementById('id');
+alert('msg');
